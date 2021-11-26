@@ -88,3 +88,77 @@ Content Cell  | Content Cell
     }
 ```
 
+    Markup : ```javascript
+             ```
+
+* Bullet list
+    * Nested Bullet
+        * Sub-nested bullet etc
+* Bullet list ite 2 
+1. A numbered list
+    1. A nested numbered list
+    2. which is numbered
+2. Which is numbered
+
+- [ ] An uncompleted task
+- [X] A completed task
+
+
+
+> Blockquote
+>> Nested blockquote
+
+Foldable text
+
+<details>
+    <summary>Title 1</summary>
+    <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+<details>
+    <summary>Title  2</summary>
+    <p>Content 2 Content 2 Content 2 Content 2 Content 2</p>
+</details>
+
+```html
+<h3>HTML</h3>
+<p> Some HMTL code here </p>
+```
+
+Link to a specific part of the page:
+
+[Go To TOP](#TOP)
+
+Hotkey:
+
+<kbd>⌘F</kbd>
+
+<kbd>⇧⌘🇫</kbd>
+
+    Markup : <kbd>⌘F</kbd>
+
+Hotkey list:
+
+| Key | Symbol |
+| --- | --- |
+| Option | ⌥ |
+| Control | ^ |
+| Command | ⌘ |
+| Shift | ⇧ |
+| Caps Lock| ⇪ |
+| Tab | ⇥ |
+| Esc | ⎋ |
+| Power | Φ |
+| Return | ↩ |
+| Delete | ⌫ |
+| Up | ↑ |
+| Down | ↓ |
+| Left | ← |
+| Right | → |
+
+Emoji:
+:exclamation: Use emoji icons to enchane text. :+1: Look up emoji codes at
+[emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+
+    Markup : Code appears between colons :EMOJICODE:
+
+:mask:
